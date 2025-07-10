@@ -10,31 +10,31 @@ Modern & Interactive Design:<br>
 
 Responsive Layout:<br>
 
-    1.Mobile-first design approach<br>
-    2.Adaptive grid layouts<br>
-    3.Smooth transitions across all devices<br>
+    1.Mobile-first design approach
+    2.Adaptive grid layouts
+    3.Smooth transitions across all devices
 
 🚀 Key Sections:<br>
 
-    1.Hero Section - Eye-catching intro with animated profile and call-to-action<br>
-    2.About - Professional summary with animated statistics<br>
-    3.Education - Interactive timeline showing academic journey<br>
-    4.Projects - Showcase of ML/AI projects with hover effects<br>
-    5.Skills - Categorized skill display with animations<br>
-    6.Contact - Clean contact information section<br>
+    1.Hero Section - Eye-catching intro with animated profile and call-to-action
+    2.About - Professional summary with animated statistics
+    3.Education - Interactive timeline showing academic journey
+    4.Projects - Showcase of ML/AI projects with hover effects
+    5.Skills - Categorized skill display with animations
+    6.Contact - Clean contact information section
 
 🎯 Interactive Features:<br>
 
-    1.Smooth scrolling navigation<br>
-    2.Scroll progress indicator at the top<br>
-    3.Intersection Observer animations for sections<br>
-    4.Dynamic header that changes on scroll<br>
-    5.Typing effect for hero text<br>
-    6.Particle animation background<br>
-    7.Hover effects on all interactive elements<br>
+    1.Smooth scrolling navigation
+    2.Scroll progress indicator at the top
+    3.Intersection Observer animations for sections
+    4.Dynamic header that changes on scroll
+    5.Typing effect for hero text
+    6.Particle animation background
+    7.Hover effects on all interactive elements
 
 📱 Mobile Responsive:<br>
 
-    1.Collapsible navigation for mobile<br>
-    2.Optimized layouts for different screen sizes<br>
-    3.Touch-friendly interactive elements<br>
+    1.Collapsible navigation for mobile
+    2.Optimized layouts for different screen sizes
+    3.Touch-friendly interactive elements
